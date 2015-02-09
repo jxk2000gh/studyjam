@@ -1,16 +1,16 @@
 1
 00:00:00,600 --> 00:00:05,640
-Nexus One 的屏幕是3.7英寸，Nexus 5是4.9英寸，这两款手机的屏幕尺寸都不是
+Nexus One 的屏幕是3.7英寸，Nexus 5是4.9英寸，
 The Nexus One has a 3.7 inch screen, and the Nexus 5, a 4.9 inch display, so
 
 2
 00:00:05,640 --> 00:00:07,560
-很普遍。
+这两款手机的屏幕尺寸都不是很普遍。
 they both fall comfortably within the normal range
 
 3
 00:00:07,560 --> 00:00:10,190
-Nexus One的
+Nexus One的屏幕
 for screen size. The Nexus One has a screen
 
 4
@@ -20,7 +20,7 @@ density of 252 dpi, which is hdpi, whereas
 
 5
 00:00:15,110 --> 00:00:17,370
-而在Nexus One发布三年后才发布的Nexus 5，
+而在Nexus One发布三年之后发布的Nexus 5，
 the Nexus 5, which was released three years after
 
 6
